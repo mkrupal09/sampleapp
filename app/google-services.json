@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "124063514430",
+    "firebase_url": "https://project-6209665533438899206.firebaseio.com",
+    "project_id": "project-6209665533438899206",
+    "storage_bucket": "project-6209665533438899206.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124063514430:android:88dbe1d4b41a9b89",
+        "android_client_info": {
+          "package_name": "com.example.krupal_pc.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124063514430-c0665jtr1h73o2d6d9je5r8lo84p59ip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.krupal_pc.myapplication",
+            "certificate_hash": "4C66DBCF2E3FCD06456197320B0C58D0C918833C"
+          }
+        },
+        {
+          "client_id": "124063514430-1c25fpl64pq5tmbh920u6c357mr97u2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr4mgcJZQO-1tVDPK2fuQbi1jaRARHCgI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
